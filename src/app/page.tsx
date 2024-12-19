@@ -1,6 +1,6 @@
 "use client";
 
-import BPA from "@/components/subBpa/BPA";
+import BPA from "@/components/bpa/BPA";
 import COA from "@/components/coa/COA";
 
 import { useState } from "react";
