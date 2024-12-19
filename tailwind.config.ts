@@ -13,6 +13,16 @@ const config: Config = {
         foreground: "var(--foreground)",
       },
     },
+    listStyleType: {
+      none: "none",
+      disc: "disc",
+      decimal: "decimal",
+      square: "square",
+      upperRoman: "upper-roman",
+      lowerRoman: "lower-roman",
+      upperAlpha: "upper-alpha",
+      lowerAlpha: "lower-alpha",
+    },
   },
   plugins: [],
 };
